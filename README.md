@@ -7,7 +7,7 @@
 
 - 💬  Ask me about **python, synths, or cooking.**
 
-- ⚡  Fun fact: **I'm a ghost horse.**
+- ⚡  Fun fact: **I'm a [ghost horse](https://www.youtube.com/watch?v=CBDa8ZcXRKA&t=97s).**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </p>
 
