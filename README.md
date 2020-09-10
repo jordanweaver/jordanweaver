@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Jordan.</h1>
-<h3 align="center">Scientific software developer and mostly functioning human.</h3>
+<h1 align="left">Bonjour, I'm Jordan. 👋</h1>
+<h4 align="left">Scientific software developer and mostly functioning human.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </p>
 
-- 🌱 I’m currently learning **about generative adversarial networks.**
+- 🌱  I’m currently learning **about generative adversarial networks.**
 
-- 💬 Ask me about **python, synths, or cooking.**
+- 💬  Ask me about **python, synths, or cooking.**
 
-- 📫 How to reach me **jweaver@enthought.com**
+- 📫  Cache me at **jweaver@enthought.com**
 
-- ⚡ Fun fact: **I'm a ghost horse.**
+- ⚡  Fun fact: **I'm a ghost horse.**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanweaver&layout=compact&hide=html" alt="jordanweaver" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanweaver&layout=compact&hide=html&theme=solarized-light" alt="jordanweaver" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanweaver&show_icons=true" alt="jordanweaver" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanweaver&show_icons=true&theme=solarized-light&hide=" alt="jordanweaver" /></p>
 
 <p align="center">
 <a href="https://twitter.com/papertapes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="papertapes" height="30" width="30" /></a>
