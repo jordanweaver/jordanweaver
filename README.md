@@ -1,5 +1,5 @@
-<h1 align="left">Bonjour, I'm Jordan. 👋</h1>
-<h4 align="left">Scientific software developer and mostly functioning human.</h4>
+<h1 align="left">Hail and well met, friend! I'm Jordan. 👋</h1>
+<h3 align="left">Scientific software developer and mostly functioning human.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </p>
 
