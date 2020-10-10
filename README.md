@@ -1,4 +1,4 @@
-<h1 align="left">Hail and well met, friend! I'm Jordan. 👋</h1>
+<h1 align="left">Hail and well met, friend! 👋</h1>
 <h3 align="left">Scientific software developer and mostly functioning human.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </p>
