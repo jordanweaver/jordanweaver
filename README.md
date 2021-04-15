@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </p>
 
-- 🌱  I’m currently learning **about generative adversarial networks.**
+- 🌱  I’m currently learning **the fine art of technical management.**
 
 - 💬  Ask me about **python, synths, or cooking.**
 
 - ⚡  Fun fact: **I'm a [ghost horse](https://www.youtube.com/watch?v=CBDa8ZcXRKA&t=97s).**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanweaver&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true&hide_title=true&hide=contribs,stars" alt="jordanweaver" />
