@@ -1,17 +1,12 @@
 <h1 align="left">Hail and well met, friend! 👋</h1>
-<h3 align="left">Scientific software developer and mostly functioning human.</h3>
+<h3 align="left">Scientific software developer and mostly functioning human. <img align="right" src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </p>
+- I’m currently learning **the fine art of technical management.**
 
-- 🌱  I’m currently learning **the fine art of technical management.**
+- Ask me anything, really, but I like talking about **Python, synths/guitars, and cooking.**
 
-- 💬  Ask me about **python, synths, or cooking.**
+- Something fun: **["Stealing" from MBMBMaM](https://www.youtube.com/watch?v=acvh4AmdtZA).**
 
-- ⚡  Fun fact: **I'm a [ghost horse](https://www.youtube.com/watch?v=CBDa8ZcXRKA&t=97s).**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanweaver&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true&hide_title=true&hide=contribs,stars" alt="jordanweaver" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanweaver&layout=compact&hide=html&theme=solarized-light&hide_title=true" alt="jordanweaver" />
 </a><br /> 
