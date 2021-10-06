@@ -1,9 +1,9 @@
 <h1 align="left">Hail and well met, friend! 👋</h1>
-<h3 align="left">Scientific software developer and mostly functioning human. <img align="right" src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </h3>
+<h3 align="left">Software developer and mostly functioning human. <img align="right" src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </h3>
 
-- I’m currently learning **the fine art of technical management.**
+- I’m currently learning **React, Typescript, Django, and... wow, web applications are complicated animals.**
 
-- Ask me anything, really, but I like talking about **Python, synths/guitars, and cooking.**
+- Ask me anything, really, but I like talking about **Python, guitars/synths, and cooking.**
 
 - Something fun: **["Stealing" from MBMBMaM](https://www.youtube.com/watch?v=acvh4AmdtZA).**
 
