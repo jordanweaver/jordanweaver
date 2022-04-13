@@ -1,12 +1,6 @@
 <h1 align="left">Hail and well met, friend! 👋</h1>
 <h3 align="left">Software developer and mostly functioning human. <img align="right" src="https://komarev.com/ghpvc/?username=jordanweaver" alt="jordanweaver" /> </h3>
 
-- I’m currently learning **React, Typescript, Django, and... wow, web applications are complicated animals.**
-
-- Ask me anything, really, but I like talking about **Python, guitars/synths, and cooking.**
-
-- Something fun: **["Stealing" from MBMBMaM](https://www.youtube.com/watch?v=acvh4AmdtZA).**
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanweaver&layout=compact&hide=html&theme=solarized-light&hide_title=true" alt="jordanweaver" />
 </a><br /> 
