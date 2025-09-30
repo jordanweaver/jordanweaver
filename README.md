@@ -1,8 +1,6 @@
 # Hail and well met, friend!
 ## I'm a software engineer @ [Setpoint](https://setpoint.io) and a collector of too many guitar pedals.
 
-_Pardon us for living, but the graveyard is full._ - The Fleshtones
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,3 +15,5 @@ _Pardon us for living, but the graveyard is full._ - The Fleshtones
 <p align="center">
   <img src="./images/rainbow_wave_plot.gif" width="49%"><img src="./images/rainbow_wave_plot.gif" width="49%">
 </p>
+
+_Pardon us for living, but the graveyard is full._ - The Fleshtones
