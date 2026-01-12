@@ -12,8 +12,4 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
-<p align="center">
-  <img src="./images/rainbow_wave_plot.gif" width="49%"><img src="./images/rainbow_wave_plot.gif" width="49%">
-</p>
-
 _Pardon us for living, but the graveyard is full._ - The Fleshtones
